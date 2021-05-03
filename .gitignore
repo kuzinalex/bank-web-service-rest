@@ -1,0 +1,10 @@
+/.idea/
+/bank-web-service/.idea/
+/bank-web-service/by.kuzin.bank/.idea/
+/bank-web-service/by.kuzin.bank/target/
+/bank-web-service/by.kuzin.bank/com.devcolibri.dataexam.iml
+/http-bank-service/http-bank-service/.mvn/
+/http-bank-service/http-bank-service/mvnw
+/http-bank-service/http-bank-service/mvnw.cmd
+/bank-web-service/by.kuzin.bank/com.devcolibri.dataexam.iml
+.DS_Store
